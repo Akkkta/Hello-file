@@ -6,7 +6,7 @@
 	.st0{opacity:0;}
 	.st1{fill:#FFFFFF;}
 <<<<<<< HEAD
-	.st2{fill:#606064;}
+	.st2{fill:#606062;}
 =======
 	.st2{fill:#606062;}
 >>>>>>> 7d95d2fc2fa0a9173ac3baa3cbb330a2d9498ba5
